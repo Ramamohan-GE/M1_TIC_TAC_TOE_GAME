@@ -1,4 +1,4 @@
-TEST PLAN
+UNIT TEST PLAN
 
 The Field class' only purpose is to keep information about its status. It can be EMPTY, which is the default value, or PLAYER1/PLAYER2. Whenever status is changed, the FieldStatusChanged event is fired. 
 
